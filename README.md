@@ -21,6 +21,7 @@
 <h3>Links</h3>
 
 https://watch.screencastify.com/v/9HbXg7iV2kP66G5AGiLS
+https://tmichae4.github.io/11-Note-Taker/
 
 
 <h3>Author</h3>
