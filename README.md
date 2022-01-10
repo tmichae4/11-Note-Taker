@@ -20,7 +20,7 @@
 
 <h3>Links</h3>
 
-https://watch.screencastify.com/v/9HbXg7iV2kP66G5AGiLS
+https://watch.screencastify.com/v/9HbXg7iV2kP66G5AGiLS <br></br>
 https://tmichae4.github.io/11-Note-Taker/
 
 
