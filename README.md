@@ -1,9 +1,9 @@
-# Note Taker APP
+# Note Taker
 
-<h1>Objective</h1>
-<p>The objective of this application is to generate an application that allows developers to organize their thoughts and outline their ideas by creating notes</p>
+<h1>Note Taking</h1>
+<p>The purpose of this application is to generate an application that allows developers to organize their thoughts by creating notes</p>
 
-<h2>The Process</h2>
+<h2>Steps</h2>
 <p>Created functions and variables including file system and express allowing them to interact with the front end code</p>
 
 <p>Made a get command that would grab the notes.html file and return the data to generate in a web page</p>
@@ -20,8 +20,9 @@
 
 <h3>Links</h3>
 
+https://watch.screencastify.com/v/9HbXg7iV2kP66G5AGiLS <br></br>
+https://tmichae4.github.io/11-Note-Taker/
 
 
 <h3>Author</h3>
-
-<p></p>
+<p> Tia Michaels</p>
